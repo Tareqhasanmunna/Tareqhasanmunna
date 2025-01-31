@@ -6,7 +6,7 @@ Hey there! 👋 I'm Tareq Hasan a Computer Science and Engineering student at Ea
 
 In the journey so far, I've gained a solid understanding of various languages and technologies. Here's a brief overview:
 
-- **Languages:** I've worked with the classics like C and C++, explored the realms of Java, delved into the world of Assembly language, and danced with databases using MySQL.
+- **Languages:** I've worked with the classics like C and C++, explored the realms of Java, Python, HTML, and CSS; delved into the world of Assembly language, and danced with databases using MySQL.
 
 - **Concepts:** I've wrapped my head around Object-Oriented Programming, so now inheritance, encapsulation, and polymorphism are like old friends. Database management is another area I've mastered, handling data like a pro.
 
