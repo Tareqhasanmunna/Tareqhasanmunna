@@ -21,6 +21,12 @@ I have played my role as the lead UI designer and advisor for a web development 
    
 I came up with the idea to build  an IoT system to monitor the room temperature and adjust the fan speed according to the temperature. This can be controlled and monitored by phone or computer from anywhere in the world with the internet. It was my responsibility to modify the ESP32 for the project and perform everything according to the plan.
 
+3. ML Project: Spam Email Detection
+It was an individual project where I chose to build a system that can classify emails as spam and ham using a Machine Learning Algorithm.
+
+4. Neural Network Project: Spam Email Detection
+It was the same as the ML project, but I used the Neural Network model instead of Machine Learning here. 
+
 ## What You'll Find Here
 
 This GitHub repository is a collection of my projects, experiments, and the code I've written. Feel free to explore and share your thoughts!
