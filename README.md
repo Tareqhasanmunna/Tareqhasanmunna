@@ -1,6 +1,6 @@
 # Welcome to My GitHub Repository!
 
-Hey there! 👋 I'm Tareq Hasan a Computer Science and Engineering student at East Delta University in Chattogram, Bangladesh. Currently cruising through my 6th semester, I've been diving into programming and soaking up knowledge like a sponge.
+Hey there! 👋 I'm Tareq Hasan a Computer Science and Engineering student at East Delta University in Chattogram, Bangladesh.
 
 ## Academic Background
 
