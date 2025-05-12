@@ -8,11 +8,11 @@ In the journey so far, I've gained a solid understanding of various languages an
 
 - **Languages:** I've worked with the classics like C and C++, explored the realms of Java, Python, HTML, and CSS; delved into the world of Assembly language, and danced with databases using MySQL.
 
-- **Concepts:** I've wrapped my head around Object-Oriented Programming, so now inheritance, encapsulation, and polymorphism are like old friends. Database management is another area I've mastered, handling data like a pro.
+- **Concepts:** I've wrapped my head around Object-Oriented Programming, so now inheritance, encapsulation, and polymorphism. Database management is another area I've mastered, handling data like a pro.
 
 - **Operating Systems:** Basic operations on an operating system? Yep, I got that covered too!
 
-## Project: 
+## Projects: 
 **1.Web Devloment Project: Nextgenjob**
 
    I have played my role as the lead UI designer and advisor for a web development project named **Nextgenjob**. It's a job listing website where I have contributed to the user interface design and provided          guidance on various aspects of the project.
