@@ -13,19 +13,19 @@ In the journey so far, I've gained a solid understanding of various languages an
 - **Operating Systems:** Basic operations on an operating system? Yep, I got that covered too!
 
 ## Project: 
-1. Web Devloment Project: Nextgenjob
+1.**Web Devloment Project: Nextgenjob**
 
 I have played my role as the lead UI designer and advisor for a web development project named **Nextgenjob**. It's a job listing website where I have contributed to the user interface design and provided guidance on various aspects of the project.
 
-2. IoT Project: HeatSync
+2. **IoT Project: HeatSync**
    
 I came up with the idea to build  an IoT system to monitor the room temperature and adjust the fan speed according to the temperature. This can be controlled and monitored by phone or computer from anywhere in the world with the internet. It was my responsibility to modify the ESP32 for the project and perform everything according to the plan.
 
-3. ML Project: Spam Email Detection
+3. **ML Project: Spam Email Detection**
 
 It was an individual project where I chose to build a system that can classify emails as spam and ham using a Machine Learning Algorithm.
 
-5. Neural Network Project: Spam Email Detection
+5. **Neural Network Project: Spam Email Detection**
 
 It was the same as the ML project, but I used the Neural Network model instead of Machine Learning here. 
 
