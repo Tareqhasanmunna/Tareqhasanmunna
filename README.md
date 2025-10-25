@@ -1,41 +1,34 @@
-# Welcome to My GitHub Repository!
+# Tareq Hasan Munna
 
-Hey there! 👋 I'm Tareq Hasan a Computer Science and Engineering student at East Delta University in Chattogram, Bangladesh.
+Computer Science and Engineering undergraduate | Python, C#, Flutter | Data processing & ML projects  
 
-## Academic Background
+---
 
-In the journey so far, I've gained a solid understanding of various languages and technologies. Here's a brief overview:
+## Skills
 
-- **Languages:** I've worked with the classics like C and C++, explored the realms of Java, Python, HTML, and CSS; delved into the world of Assembly language, and danced with databases using MySQL.
+**Languages:** Python, C, C++, C#, SQL, Dart  
+**Frameworks/Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Flutter, .NET  
+**Tools:** VS Code, Git, GitHub, Jupyter Notebook, Docker 
 
-- **Concepts:** I've wrapped my head around Object-Oriented Programming, so now inheritance, encapsulation, and polymorphism. Database management is another area I've mastered, handling data like a pro.
+---
 
-- **Operating Systems:** Basic operations on an operating system? Yep, I got that covered too!
+## Projects
 
-## Projects: 
-**1.Web Devloment Project: Nextgenjob**
+- **Spam Email Detection System** – Classifies emails using **Naïve Bayes and Neural Networks** with a Python GUI  
+- **NestGenJob** – Job-matching web application  
+- **Data Engineering Practice** – ETL, data cleaning, merging, automation
+- **Daily-TaskMate** - Flutter framework, Android application for daily task organizing 
 
-   I have played my role as the lead UI designer and advisor for a web development project named **Nextgenjob**. It's a job listing website where I have contributed to the user interface design and provided          guidance on various aspects of the project.
+---
 
-**2.IoT Project: HeatSync**
-   
-   I came up with the idea to build  an IoT system to monitor the room temperature and adjust the fan speed according to the temperature. This can be controlled and monitored by phone or computer from anywhere in    the world with the internet. It was my responsibility to modify the ESP32 for the project and perform everything according to the plan.
+## Academic
 
-**3.ML Project: Spam Email Detection**
+**BSc Thesis:**  
+**RedditMind – Learning from the Crowd to Validate Your SaaS Ideas**  
 
-   It was an individual project where I chose to build a system that can classify emails as spam and ham using a Machine Learning Algorithm.
+---
 
-**4.Neural Network Project: Spam Email Detection**
+## Contact
 
-   It was the same as the ML project, but I used the Neural Network model instead of Machine Learning here. 
-
-## What You'll Find Here
-
-This GitHub repository is a collection of my projects, experiments, and the code I've written. Feel free to explore and share your thoughts!
-
-
-## Get in Touch
-
-I'm always open to collaboration, learning new things, and connecting with fellow enthusiasts. Feel free to reach out if you have any questions or suggestions or want to chat about tech or programming. You can drop me an email at tareqprofessional@gmail.com.
-
-Thanks for stopping by, and happy coding! 🚀
+- Email: tareqprofessional@gmail.com  
+- LinkedIn: [LinkedIn Profile]([https://www.linkedin.com](https://www.linkedin.com/in/tareq-hasan-602b8932b))  
