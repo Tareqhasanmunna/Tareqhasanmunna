@@ -27,8 +27,3 @@ Computer Science and Engineering undergraduate | Python, C#, Flutter | Data proc
 **RedditMind – Learning from the Crowd to Validate Your SaaS Ideas**  
 
 ---
-
-## Contact
-
-- Email: tareqprofessional@gmail.com  
-- LinkedIn: [LinkedIn Profile]([https://www.linkedin.com](https://www.linkedin.com/in/tareq-hasan-602b8932b))  
