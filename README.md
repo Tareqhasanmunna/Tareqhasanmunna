@@ -24,6 +24,9 @@ Computer Science and Engineering undergraduate | Python, C#, Flutter | Data proc
 ## Academic
 
 **BSc Thesis:**  
-**RedditMind – Learning from the Crowd to Validate Your SaaS Ideas**  
+**SaaS Viability Prediction using Social
+Signals: Comparative Analysis of
+Supervised and Reinforcement
+Learning Model**  
 
 ---
